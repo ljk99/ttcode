@@ -7,9 +7,7 @@
 
 - [Taro](https://github.com/ljk99/ttcode/issues/9)
 
+- [爬虫](https://github.com/ljk99/ttcode/issues/18)
 
-[Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)
-[spyder-ide](https://github.com/spyder-ide/spyder)
-https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis
-https://github.com/taowen/awesome-lowcode
-https://github.com/justinzm/gopup
+
+- https://github.com/taowen/awesome-lowcode
