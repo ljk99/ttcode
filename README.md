@@ -12,5 +12,5 @@
 
 - [noip](https://github.com/ljk99/ttcode/issues/13)
 - [内容源](https://github.com/ljk99/ttcode/issues/20)
+- [奇趣集锦](https://github.com/ljk99/ttcode/issues/21)
 
-- [lowcode](https://github.com/taowen/awesome-lowcode)
