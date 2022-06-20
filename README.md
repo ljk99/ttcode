@@ -26,3 +26,5 @@
 - [奇趣集锦](https://github.com/ljk99/ttcode/issues/21)
 
 - [黄庭经](https://github.com/ljk99/ttcode/issues/26)
+
+[精益副业：程序员如何优雅地做副业](https://github.com/easychen/lean-side-bussiness)
